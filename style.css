@@ -141,6 +141,6 @@ body{
 #div7{
     background-color:#1f1f1f;
     width: 1000px;
-    height: 1000px;
+    height: auto;
     padding-left: 0px;
 }
